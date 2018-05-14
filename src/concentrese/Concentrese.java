@@ -6,7 +6,7 @@ import java.net.URL;
 import javax.swing.*;
 
 /**
- * Interfaz y parte logica para el juego concentrese
+ * Interfaz y parte lógica para el juego concentrese
  *
  * @author Cristian Echeverri 
  * Git: cristianecheverri 
