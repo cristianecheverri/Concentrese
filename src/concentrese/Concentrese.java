@@ -10,7 +10,7 @@ import javax.swing.*;
  *
  * @author Cristian Echeverri 
  * Git: cristianecheverri 
- * Primer proyecto Estructuras de datos 
+ * Segundo proyecto Estructuras de datos 
  * Ingeniería en informática 
  * Tercer semestre 
  * Universidad de Caldas - Colombia

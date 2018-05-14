@@ -10,13 +10,13 @@ import java.net.URL;
 import javax.swing.*;
 
 /**
- * Este Frame contiene el inicio del juego, muestra una interfaz con una imagen
- * logo, texto acerca de la funcionalidad del juego y botones de accion para
+ * Este JFrame contiene el inicio del juego, muestra una interfaz con una imagen
+ * logo, texto acerca de la funcionalidad del juego y botones de acción para
  * iniciar o cerrar
  *
  * @author Cristian Echeverri
  * Git: cristianecheverri 
- * Primer proyecto Estructuras de datos 
+ * Segundo proyecto Estructuras de datos 
  * Ingeniería en informática 
  * Tercer semestre 
  * Universidad de Caldas - Colombia
